@@ -1,4 +1,6 @@
 # Byte-compiled / optimized / DLL files
+database.txt
+database.csv
 server.copy.py
 __pycache__/
 *.py[cod]
